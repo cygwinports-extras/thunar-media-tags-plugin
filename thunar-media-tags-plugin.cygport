@@ -1,0 +1,9 @@
+inherit xfce4
+
+NAME="thunar-media-tags-plugin"
+VERSION=0.2.1
+RELEASE=1
+CATEGORY="Xfce"
+SUMMARY="Adds ID3/Ogg tag support to Thunar bulk renaming"
+DESCRIPTION="The thunar-media-tags-plugin is a plugin for the Thunar File
+Manager, which adds ID3/OGG tag support to the bulk rename dialog."

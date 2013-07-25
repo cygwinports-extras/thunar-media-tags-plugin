@@ -1,5 +1,0 @@
-category: Xfce
-requires: libatk1.0_0 libexo1_0 libglib2.0_0 libgtk2.0_0 libintl8 libtag_c0 Thunar
-sdesc: "Adds ID3/Ogg tag support to Thunar bulk renaming"
-ldesc: "The thunar-media-tags-plugin is a plugin for the Thunar File 
-Manager, which adds ID3/OGG tag support to the bulk rename dialog."
